@@ -4,7 +4,7 @@ import sys
 block_cipher = None
 
 a = Analysis(['lotto.py'],
-             pathex=['C:\\Users\\%username%\\Documents'],
+             pathex=[],
              binaries=[],
              datas=[],
              hiddenimports=[],

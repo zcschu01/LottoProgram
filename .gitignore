@@ -143,4 +143,6 @@ cython_debug/
 # Output files
 MegaMillionsResults.csv
 PowerballResults.csv
+ModifiedMMResults.csv
+ModifiedPBResults.csv
 OldFiles/
